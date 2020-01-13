@@ -2,7 +2,6 @@ SYST10049 Web Development
 : Session 1
 
 ## Overview
-> Normally completed in week 1 of the semester.  If your class falls on a Monday which is a statutory holiday, read ahead, make notes, write down your questions, and bring to next class.
 > 1. Development environment
 > 2. HTML Basics
 
@@ -31,7 +30,7 @@ SYST10049 Web Development
 	* What are the options?  Using an online tool like GitHub or Google App Engine.   Using a web-based IDE... 
 9.  **How the web works**
 
-![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/start/server4.png](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/start/server4.png)
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/server4.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/server4.png)
 
 
 #### Progressive enhancement approach
