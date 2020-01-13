@@ -1,5 +1,5 @@
 SYST10049 Web Development
-: Session 1 Exercise Set
+:Exercise Set 1
 
 
 ## Key terms and concepts to understand
