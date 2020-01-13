@@ -32,7 +32,7 @@ SYST10049 Web Development
 * [HTTP messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
 
 ### Character encoding (Character sets)
-![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/html04.png](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/html04.png)
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html04.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html04.png)
 * [https://www.w3schools.com/tags/ref_charactersets.asp](https://www.w3schools.com/tags/ref_charactersets.asp)
 * [https://www.wikiwand.com/en/MIME](https://www.wikiwand.com/en/MIME)
 * [https://www.wikiwand.com/en/Character_encoding](https://www.wikiwand.com/en/Character_encoding)
@@ -61,7 +61,7 @@ SYST10049 Web Development
 </body>
 ~~~
 #### example 2
-![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/semElements.gif)
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif)
 
 ## 4. Dealing with Files
 > Where should your website live on your computer?  
@@ -69,10 +69,10 @@ SYST10049 Web Development
 > What structure should your website have?  
 > File paths
 
-![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/pathnames.jpg)
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/pathnames.jpg)
 
 
-![http://bajcar.dev.fast.sheridanc.on.ca/web10199/images/slides/file_naming.png](http://bajcar.dev.fast.sheridanc.on.ca/web10199/images/slides/file_naming.png)
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/file_naming.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/file_naming.png)
 
 ---
 > SYST10049 Web Development @ Sheridan College
