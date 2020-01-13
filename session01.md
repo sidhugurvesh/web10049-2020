@@ -137,20 +137,8 @@ Every program (process) has input and output. Computer programming is a process 
 >-   enhanced behavior is provided by unobtrusive, externally linked JavaScript
 >-   end-user web browser preferences are respected
 
----
-
-### Keep reading, exploring and cross-referencing
-* **Primary source** [https://www.w3.org/TR/html5/syntax.html](https://www.w3.org/TR/html5/syntax.html)
-* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/websyst10049/checklists/htmlSheet.html)
-* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/websyst10049/checklists/cssSheet.html)
 
 
 ---
 > SYST10049 Web Development @ Sheridan College
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDgwNzk2MCwtMTU1MDYwNzYyNiwtOD
-MyOTE0NDE2LDEyMTk3NDE1NDUsLTE3OTM1Njk0OTQsMTYyOTY2
-MDM0MCwxMTAxMjI4NTA3LDE4OTQ1ODUwNDgsMzY4NDk4MzEwLC
-0xMTY0Mjc5ODIsLTI3MjI3NTkzOCw1MjQyODEzNTksLTExODMw
-NTgwMzNdfQ==
--->
+
