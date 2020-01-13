@@ -19,7 +19,11 @@ SYST10049 Web Development
 [Content models](https://www.w3.org/TR/html52/dom.html#content-models)
 : Each element defined in this specification has a content model: a description of the element’s expected contents. An HTML element must have contents that match the requirements described in the element’s content model. The contents of an element are its children in the DOM.
 
-### HTML basics
+
+#### HTML Basic Syntax
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/htmlSyntax_diagram.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/htmlSyntax_diagram.png)
+
+### HTML Components
 * HTML elements (objects)
 * [Global attributes](https://www.w3schools.com/tags/ref_standardattributes.asp) and element-specific attributes (properties)
 * [HTML doctypes](https://www.w3schools.com/tags/ref_html_dtd.asp)
@@ -27,8 +31,7 @@ SYST10049 Web Development
 * [HTML language codes](https://www.w3schools.com/tags/ref_language_codes.asp)
 * [HTTP messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
 
-#### HTML Basic Syntax
-![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/htmlSyntax_diagram.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/htmlSyntax_diagram.png)
+
 
 
 ---
