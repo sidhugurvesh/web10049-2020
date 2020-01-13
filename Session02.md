@@ -63,6 +63,8 @@ SYST10049 Web Development
 #### example 2
 ![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif)
 
+#### Kinds of content (content categories)
+[Explore specifications on W3C](https://www.w3.org/TR/html52/dom.html#kinds-of-content)
 ![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html06.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html06.png)
 
 ## 4. Dealing with Files
