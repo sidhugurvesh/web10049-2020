@@ -1,28 +1,12 @@
 SYST10049 Web Development
-: Session 1 Exercises
+: Session 1 Exercise Set
 
 
-
-### HTML basics
-* HTML elements (objects)
-* [Global attributes](https://www.w3schools.com/tags/ref_standardattributes.asp) and element-specific attributes (properties)
-* [HTML doctypes](https://www.w3schools.com/tags/ref_html_dtd.asp)
-* [HTML character sets](https://www.w3schools.com/tags/ref_charactersets.asp)
-* [HTML language codes](https://www.w3schools.com/tags/ref_language_codes.asp)
-* [HTTP messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
-
-#### HTML Basic Syntax
-[click for details here :cloud:](https://paper.dropbox.com/doc/HTML-Basics--Aj1f6ATDIY3tgNCF_ri2lcwuAQ-GQ6T8iyStsH1zHBqst9jj)
-
-
-
-## Exercise Set 1
-
-### Key terms and concepts to understand
+## Key terms and concepts to understand
 > web browser  &bull; internet  &bull; server  &bull; client  &bull; TCP/IP  &bull; IPO (input>process>output)  &bull; request  &bull; response  &bull; programming language  &bull;  computer programming  &bull; directory  &bull; folder  &bull;  file  &bull; hierarchy  &bull; computer application  &bull;  text editor  &bull; client/server  &bull;  storage  &bull; tree structure
 ---
 
-### Formulate answers to the following questions
+## Formulate answers to the following questions
 1. What is the purpose of a web browser?
 2. Describe what happens when a user requests a web page.
 3. Describe how the files for a web project are organized.
@@ -79,7 +63,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 		* pay close attention to values that can be assigned to the attributes; 
 		* are the attributes global or element-specific?
 		* add to your written code, as comments, all corrections and observations.
-		* reference and compare with EXAMPLE01_000, _001, _002,  in [Set 1 examples](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_01.html)
+
 
 
 
