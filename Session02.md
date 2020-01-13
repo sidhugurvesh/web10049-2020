@@ -63,6 +63,8 @@ SYST10049 Web Development
 #### example 2
 ![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/semElements.gif)
 
+![http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html06.png](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/html06.png)
+
 ## 4. Dealing with Files
 > Where should your website live on your computer?  
 > An aside on casing and spacing  
