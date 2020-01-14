@@ -1,11 +1,17 @@
 SYST10049 Web Development
-: Unit 3
+: Session 3
 
 ## Overview
 > 1. Publishing process, protocols, and tools
 > 2. Interactive and Embedded Content
 
-### 0. Review  [HTML Documents :cloud:](https://paper.dropbox.com/doc/HTML-Document--Aka52yIhfddtsaZgY~uQFKL5AQ-7lhsulN2OSeUrgvn2tvRb) 
+### 0. Review  [HTML Documents - Overview](https://paper.dropbox.com/doc/HTML-Document--Aka52yIhfddtsaZgY~uQFKL5AQ-7lhsulN2OSeUrgvn2tvRb) :cloud:
+* Document structure: head section, body section, content (data) content model
+* HTML elements: empty element, well-formed code, validity, block vs. inline behaviour
+* Semantic correctness
+* HTML attributes: attribute minimization, global attributes, element-specific attributes
+* Character encoding: whitespace, entities and symbols
+* Documentation: comments, coding conventions
 
 ### 1. Publishing process, protocols, and tools
 
