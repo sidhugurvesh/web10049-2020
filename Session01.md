@@ -39,17 +39,6 @@ SYST10049 Web Development
 
 
 
-### HTML basics
-* HTML elements (objects)
-* [Global attributes](https://www.w3schools.com/tags/ref_standardattributes.asp) and element-specific attributes (properties)
-* [HTML doctypes](https://www.w3schools.com/tags/ref_html_dtd.asp)
-* [HTML character sets](https://www.w3schools.com/tags/ref_charactersets.asp)
-* [HTML language codes](https://www.w3schools.com/tags/ref_language_codes.asp)
-* [HTTP messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
-
-#### HTML Basic Syntax
-[click for details here :cloud:](https://paper.dropbox.com/doc/HTML-Basics--Aj1f6ATDIY3tgNCF_ri2lcwuAQ-GQ6T8iyStsH1zHBqst9jj)
-
 
 
 ## Exercise Set 1
