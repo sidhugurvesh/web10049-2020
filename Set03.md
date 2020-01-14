@@ -1,3 +1,14 @@
+SYST10049 Web Development
+: Exercise Set 3
+
+### Key terms and concepts to understand
+> element &bull; object &bull; attribute &bull; semantics &bull; semantic correctness &bull; hierarchy root &bull; property &bull; nesting &bull; content &bull; DOM &bull; global attributes &bull; polyglot
+
+### Formulate answers to the following questions
+1. Describe an HTML document.  Explain all of its components (parts).
+2. What is a minimal HTML5 document? Write out the code for a minimal HTML5 document.
+
+
 ### Complete the following tutorials. Document what you have learned.
 For each of the following element, complete the tutorial on w3schools.  Note the definition, intended purpose, browser support, supported attributes, and possible attribute values.
 #### Example:
@@ -18,3 +29,19 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 12. IFRAME [https://www.w3schools.com/tags/tag_iframe.asp](https://www.w3schools.com/tags/tag_iframe.asp)
 13. *bookmarks with ID and links* [https://www.w3schools.com/html/html_id.asp](https://www.w3schools.com/html/html_id.asp)
 
+#### A. Create your own version of the examples in  [Example Set 3](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_03.html) in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+-
+	 - [ ] start with minimal HTML5 document
+	 - [ ] copy the rendered content (right-hand side) into the body
+	 - [ ] try to mark it up without looking at the html code
+	 - [ ] if you have to look, document (in comments) why, dig deeper, make notes.
+* test the page by running it with Chrome (check that the title and the content display as expected).
+* validate your code at [W3C Validation Markup Service](https://validator.w3.org) (remove all warnings and errors);
+* re-test and document your observations in the prologue's description;
+* explore deeper by looking up references for any unfamiliar elements and attributes; 
+* pay close attention to values that can be assigned to the attributes; 
+* are the attributes global or element-specific?
+* add to your written code, as comments, all corrections and observations.
+
+#### B. Complete the [Media and hyperlink content project](https://paper.dropbox.com/doc/Media-and-hyperlink-content-project--AkjRC0d9y_F5WqVHWfQnYdcAAQ-4pSmQVksDzUr3RWIbawX2). Additional instructions will be provided in class.
+The new link to the media is: [http://bajcar.dev.fast.sheridanc.on.ca/web10049/media/](http://bajcar.dev.fast.sheridanc.on.ca/web10049/media/)
