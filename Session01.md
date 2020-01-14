@@ -39,21 +39,6 @@ SYST10049 Web Development
 
 
 
-
-
-## Exercise Set 1
-
-### Key terms and concepts to understand
-> web browser  &bull; internet  &bull; server  &bull; client  &bull; TCP/IP  &bull; IPO (input>process>output)  &bull; request  &bull; response  &bull; programming language  &bull;  computer programming  &bull; directory  &bull; folder  &bull;  file  &bull; hierarchy  &bull; computer application  &bull;  text editor  &bull; client/server  &bull;  storage  &bull; tree structure
----
-
-### Formulate answers to the following questions
-1. What is the purpose of a web browser?
-2. Describe what happens when a user requests a web page.
-3. Describe how the files for a web project are organized.
-4. How do you name files and directories? What are naming conventions?
-5. What do we need to know about the Web environment?
-6. What are the major computer components and how they work?
 ---
 
 
