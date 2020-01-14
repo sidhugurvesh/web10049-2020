@@ -15,7 +15,7 @@ SYST10049 Web Development
 
 ### 1. Publishing process, protocols, and tools
 
-Deploying—or pushing new code to a server—is an integral part of a developer’s daily workflow. Knowing the relationship between your computer (including your local development environment) and the Internet, as well as how to communicate between the two, is essential for every developer.  [codecademy](https://www.codecademy.com/learn/deploy-a-website)
+Deploying—or pushing new code to a server—is an integral part of a developer’s daily workflow. Knowing the relationship between your computer (including your local development environment) and the Internet, as well as how to communicate between the two, is essential for every developer.  [Source: codecademy](https://www.codecademy.com/learn/deploy-a-website)
 
 [What is a web server? (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server) 
 
