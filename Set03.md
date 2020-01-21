@@ -29,7 +29,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 12. IFRAME [https://www.w3schools.com/tags/tag_iframe.asp](https://www.w3schools.com/tags/tag_iframe.asp)
 13. *bookmarks with ID and links* [https://www.w3schools.com/html/html_id.asp](https://www.w3schools.com/html/html_id.asp)
 
-#### A. Create your own version of the examples in  [Example Set 3](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_03.html) in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### A. Create your own version of the examples in  [Example Set 3](https://padlet.com/ellen_bajcar/sz1x28jghffg) in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 -
 	 - [ ] start with minimal HTML5 document
 	 - [ ] copy the rendered content (right-hand side) into the body
