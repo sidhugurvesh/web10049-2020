@@ -1,3 +1,13 @@
+SYST10049 Web Development
+: Exercise Set 3
+
+### Key terms and concepts to understand
+> element &bull; object &bull; attribute &bull; semantics &bull; semantic correctness &bull; hierarchy root &bull; property &bull; nesting &bull; content &bull; DOM &bull; global attributes &bull; polyglot
+
+### Formulate answers to the following questions
+1. Describe an HTML document.  Explain all of its components (parts).
+2. What is a minimal HTML5 document? Write out the code for a minimal HTML5 document.
+
 ### Complete the following tutorials. Document what you have learned.
 For each of the following element, complete the tutorial on w3schools.  Note the definition, intended purpose, browser support, supported attributes, and possible attribute values. Experiment with some of the example code.
 #### Example
